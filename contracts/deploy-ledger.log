@@ -1,0 +1,4 @@
+Creating sub-account ledger.cairn-deployer.testnet with deployer's own key, funded for 5.62 NEAR of storage stake...
+Created ledger.cairn-deployer.testnet.
+Deployed safety-ledger/build/safety_ledger.wasm to ledger.cairn-deployer.testnet
+Transaction hash: GKg8Pmyn6UAAahwirDBce5QpbrXpwk6tPeLKDFDdvRcU

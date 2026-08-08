@@ -1,0 +1,11 @@
+{
+  "name": "credential-vault",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "near-sdk-js build src/contract.ts build/credential_vault.wasm"
+  },
+  "dependencies": {
+    "near-sdk-js": "2.0.0"
+  }
+}

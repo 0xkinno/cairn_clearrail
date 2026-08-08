@@ -1,0 +1,4 @@
+Creating sub-account org.cairn-deployer.testnet with deployer's own key, funded for 5.61 NEAR of storage stake...
+Created org.cairn-deployer.testnet.
+Deployed org-registry/build/org_registry.wasm to org.cairn-deployer.testnet
+Transaction hash: 3MnwPvSTL6XQUF5MLL4rj3VVzF586Ho5swax4zWUzwCs

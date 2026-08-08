@@ -1,0 +1,4 @@
+Creating sub-account vault.cairn-deployer.testnet with deployer's own key, funded for 5.61 NEAR of storage stake...
+Created vault.cairn-deployer.testnet.
+Deployed credential-vault/build/credential_vault.wasm to vault.cairn-deployer.testnet
+Transaction hash: 2Ju3XSBzL3982oLuinuHaH58qPpVSNb3xUCAniYpvpJW
