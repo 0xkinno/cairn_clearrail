@@ -22,8 +22,8 @@ ClearRail is a Cleanverse-native workforce settlement and RWA payroll yield fina
 | Resource | Link |
 |---|---|
 | **Live Web App** | [ClearRail Live Portal](https://cairn-theta-seven.vercel.app/) |
-| **Video Demo** | [Youtube](https://cairn-theta-seven.vercel.app/) |
-| **GitHub Repository** | [Cairn-ClearRail GitHub Repository](https://github.com/Cairn-ClearRail/ClearRail) |
+| **Video Demo** | [Youtube](https://youtu.be/GBsrpEFcGso?si=BRrxCt5tL48Ff_k4) |
+| **GitHub Repository** | [cairn_clearrail GitHub Repository](https://github.com/cairn_clearrail/) |
 | **ClearRailCore Smart Contract** | [`0x526a760d4F3a61bA04352B008d4f6477F19f997d`](https://sepolia.arbiscan.io/address/0x526a760d4F3a61bA04352B008d4f6477F19f997d) |
 | **ClearRail Testnet A-USDC (ERC-20 settlement token)** | [`0x3CFA584B9149D34B642Ea1249a1019252Cc9D462`](https://sepolia.arbiscan.io/address/0x3CFA584B9149D34B642Ea1249a1019252Cc9D462) |
 | **Hackathon Submission** | Cleanverse Build: Trusted Assets Hackathon |
