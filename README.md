@@ -1,6 +1,6 @@
 # ClearRail
 
-![ClearRail Hero Banner](clearrail_hero_editorial_1786201124823.jpg)
+![ClearRail Hero Banner](hero_banner.png)
 
 <p align="center">
   <strong>Verified work. Clean money. Programmable settlement.</strong>
@@ -19,7 +19,7 @@
 
 | Resource | Link |
 |---|---|
-| **Live Web App** | [ClearRail Live Portal](http://localhost:3002) |
+| **Live Web App** | [ClearRail Live Portal](https://cairn-theta-seven.vercel.app/) |
 | **GitHub Repository** | [Cairn-ClearRail GitHub Repository](https://github.com/Cairn-ClearRail/ClearRail) |
 | **ClearRailCore Smart Contract** | [`0x526a760d4F3a61bA04352B008d4f6477F19f997d`](https://sepolia.arbiscan.io/address/0x526a760d4F3a61bA04352B008d4f6477F19f997d) |
 | **ClearRail Testnet A-USDC (ERC-20 settlement token)** | [`0x3CFA584B9149D34B642Ea1249a1019252Cc9D462`](https://sepolia.arbiscan.io/address/0x3CFA584B9149D34B642Ea1249a1019252Cc9D462) |
@@ -29,11 +29,13 @@
 
 ### Product Screenshots
 
-| Overview Dashboard | Compliance Preflight |
+| Overview Dashboard | Worker Dashboard |
 |:---:|:---:|
-| ![Overview Dashboard](clearrail_hero_editorial_1786201124823.jpg) | ![Compliance Preflight](clearrail_workproof_editorial_1786201146911.jpg) |
-| **Settlement Proof** | **Audit Center & Travel Rule** |
-| ![Settlement Proof](clearrail_settlement_editorial_1786201173519.jpg) | ![Audit Center](clearrail_audit_editorial_1786201189467.jpg) |
+| <img src="hero_banner.png" width="400" alt="Overview Dashboard" /> | <img src="worker_dashboard.png" width="400" alt="Worker Dashboard" /> |
+| **Wage Management** | **Compliance Lab** |
+| <img src="wage_management.png" width="400" alt="Wage Management" /> | <img src="compliance_lab.png" width="400" alt="Compliance Lab" /> |
+| **Audit Center & Travel Rule** | |
+| <img src="audit_center.png" width="400" alt="Audit Center" /> | |
 
 ---
 
