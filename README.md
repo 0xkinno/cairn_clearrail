@@ -15,11 +15,14 @@
 
 ![ClearRail Hero Banner](hero_banner.png)
 
+ClearRail is a Cleanverse-native workforce settlement and RWA payroll yield financing protocol running natively on Arbitrum Sepolia. It unifies AI hazard verification, identity compliance, and real token escrow into an institutional settlement rail where every state change produces an on-chain transaction verified by Cleanverse A-Pass and Validator Pool engines. Without Cleanverse compliance verification, zero funds move on-chain.
+
 ### Live Project Resources
 
 | Resource | Link |
 |---|---|
 | **Live Web App** | [ClearRail Live Portal](https://cairn-theta-seven.vercel.app/) |
+| **Video Demo** | [Youtube](https://cairn-theta-seven.vercel.app/) |
 | **GitHub Repository** | [Cairn-ClearRail GitHub Repository](https://github.com/Cairn-ClearRail/ClearRail) |
 | **ClearRailCore Smart Contract** | [`0x526a760d4F3a61bA04352B008d4f6477F19f997d`](https://sepolia.arbiscan.io/address/0x526a760d4F3a61bA04352B008d4f6477F19f997d) |
 | **ClearRail Testnet A-USDC (ERC-20 settlement token)** | [`0x3CFA584B9149D34B642Ea1249a1019252Cc9D462`](https://sepolia.arbiscan.io/address/0x3CFA584B9149D34B642Ea1249a1019252Cc9D462) |
@@ -44,8 +47,6 @@
 |---|---|---|
 | Employer/Manager | manager@clearrail.io | clearrail2026 |
 | Worker | worker@clearrail.io | clearrail2026 |
-
-ClearRail is a Cleanverse-native workforce settlement and RWA payroll yield financing protocol running natively on Arbitrum Sepolia. It unifies AI hazard verification, identity compliance, and real token escrow into an institutional settlement rail where every state change produces an on-chain transaction verified by Cleanverse A-Pass and Validator Pool engines. Without Cleanverse compliance verification, zero funds move on-chain.
 
 ---
 
