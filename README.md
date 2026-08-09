@@ -1,7 +1,5 @@
 # ClearRail
 
-![ClearRail Hero Banner](hero_banner.png)
-
 <p align="center">
   <strong>Verified work. Clean money. Programmable settlement.</strong>
 </p>
@@ -14,6 +12,8 @@
   <img src="https://img.shields.io/badge/Stack-Next.js_16_._React_19_._TypeScript-D4940A?style=flat-square&labelColor=141210" alt="Stack" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square&labelColor=141210" alt="License" />
 </p>
+
+![ClearRail Hero Banner](hero_banner.png)
 
 ### Live Project Resources
 
@@ -39,7 +39,7 @@
 
 ## 1. Executive Summary
 
-### Demo Access
+### Access (New Email sign-Ups are also valid)
 | Role | Email | Password |
 |---|---|---|
 | Employer/Manager | manager@clearrail.io | clearrail2026 |
