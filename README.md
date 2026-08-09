@@ -29,13 +29,11 @@
 
 ### Product Screenshots
 
-| Overview Dashboard | Worker Dashboard |
+| Worker Dashboard | Wage Management |
 |:---:|:---:|
-| <img src="hero_banner.png" width="400" alt="Overview Dashboard" /> | <img src="worker_dashboard.png" width="400" alt="Worker Dashboard" /> |
-| **Wage Management** | **Compliance Lab** |
-| <img src="wage_management.png" width="400" alt="Wage Management" /> | <img src="compliance_lab.png" width="400" alt="Compliance Lab" /> |
-| **Audit Center & Travel Rule** | |
-| <img src="audit_center.png" width="400" alt="Audit Center" /> | |
+| <img src="worker_dashboard.png" width="400" alt="Worker Dashboard" /> | <img src="wage_management.png" width="400" alt="Wage Management" /> |
+| **Compliance Lab** | **Audit Center & Travel Rule** |
+| <img src="compliance_lab.png" width="400" alt="Compliance Lab" /> | <img src="audit_center.png" width="400" alt="Audit Center" /> |
 
 ---
 
