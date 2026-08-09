@@ -28,7 +28,7 @@ export const Input = forwardRef<HTMLInputElement, InputProps>(
               "placeholder:text-[var(--color-text-tertiary)]",
               "focus:outline-none focus:border-[var(--color-accent)] transition-colors duration-200",
               error && "border-[var(--color-status-critical)]",
-              rightIcon && "pr-12",
+              !!rightIcon && "pr-12",
               className
             )}
             {...props}
