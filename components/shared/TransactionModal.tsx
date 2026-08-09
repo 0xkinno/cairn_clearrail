@@ -140,7 +140,7 @@ export function TransactionModal({
                   rel="noopener noreferrer"
                   className="text-mono-sm text-[var(--color-status-info)] hover:underline truncate font-mono text-[11px]"
                 >
-                  View Tx on Arbiscan: {txHash} &rarr;
+                  View Tx on Arbiscan: {txHash} →
                 </a>
               )}
             </div>

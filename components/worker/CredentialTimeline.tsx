@@ -21,7 +21,7 @@ export function CredentialTimeline({ credentials }: { credentials: CredentialRow
             </p>
             {c.near_tx_hash && (
               <p className="text-mono-sm text-[var(--color-text-tertiary)] break-all mt-1">
-                NEAR proof: {c.near_tx_hash}
+                Arbitrum Sepolia proof: {c.near_tx_hash}
               </p>
             )}
           </div>

@@ -175,7 +175,7 @@ function OnboardingContent() {
                       Build a portable safety record and get verified pay history.
                     </span>
                   </div>
-                  <span className="text-mono-sm text-[var(--color-accent)] font-semibold mt-4 block">Select &rarr;</span>
+                  <span className="text-mono-sm text-[var(--color-accent)] font-semibold mt-4 block">Select →</span>
                 </button>
  
                 <button
@@ -191,7 +191,7 @@ function OnboardingContent() {
                       Get an AI compliance co-pilot for your organization.
                     </span>
                   </div>
-                  <span className="text-mono-sm text-[var(--color-accent)] font-semibold mt-4 block">Select &rarr;</span>
+                  <span className="text-mono-sm text-[var(--color-accent)] font-semibold mt-4 block">Select →</span>
                 </button>
               </div>
             </div>

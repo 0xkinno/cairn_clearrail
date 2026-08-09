@@ -126,7 +126,7 @@ export function CredentialIssueForm({ onIssued }: { onIssued: () => void }) {
       />
 
       <Button variant="primary" type="submit" disabled={submitting}>
-        {submitting ? "Issuing..." : "Issue & Anchor Credential &rarr;"}
+        {submitting ? "Issuing..." : "Issue & Anchor Credential →"}
       </Button>
     </form>
   );

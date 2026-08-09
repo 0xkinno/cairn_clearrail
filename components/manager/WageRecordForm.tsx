@@ -163,7 +163,7 @@ export function WageRecordForm({ onSaved }: { onSaved: () => void }) {
       </div>
 
       <Button variant="primary" type="submit" disabled={submitting}>
-        {submitting ? "Saving..." : "Create Payroll Obligation &rarr;"}
+        {submitting ? "Saving..." : "Create Payroll Obligation →"}
       </Button>
     </form>
   );

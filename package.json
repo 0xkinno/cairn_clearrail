@@ -35,9 +35,6 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-chai-matchers": "^3.0.0",
-    "@nomicfoundation/hardhat-ethers": "^4.0.15",
-    "@nomicfoundation/hardhat-toolbox": "^6.1.2",
     "@tailwindcss/postcss": "^4",
     "@types/bn.js": "^5.2.0",
     "@types/d3": "^7.4.3",
@@ -48,7 +45,6 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.12",
     "ethers": "^6.17.0",
-    "hardhat": "^3.12.0",
     "mocha": "^11.8.0",
     "prisma": "^7.9.1",
     "tailwindcss": "^4",

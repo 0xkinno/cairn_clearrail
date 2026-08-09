@@ -29,7 +29,7 @@ export function Navigation({ items, brandHref }: NavigationProps) {
   return (
     <nav className="flex items-center justify-between px-6 md:px-10 py-5 border-b border-[var(--color-border)]">
       <Link href={brandHref} className="text-heading-md">
-        Cairn
+        ClearRail
       </Link>
       <div className="hidden md:flex items-center gap-8">
         {items.map((item) => (

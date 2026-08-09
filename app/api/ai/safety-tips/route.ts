@@ -7,7 +7,7 @@ export async function POST(req: NextRequest) {
   try {
     const { workerRole, siteType, recentHazards, language } = await req.json();
     const model = genAI.getGenerativeModel({ model: "gemini-flash-latest" });
-    const prompt = `You are Cairn's Safety Advisor. Generate 3-5 contextual safety tips.
+    const prompt = `You are ClearRail's Safety Advisor. Generate 3-5 contextual safety tips.
 Worker role: ${workerRole || "general worker"}
 Site type: ${siteType || "construction"}
 Recent hazards: ${JSON.stringify(recentHazards || [])}

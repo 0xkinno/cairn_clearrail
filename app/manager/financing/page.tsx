@@ -268,7 +268,7 @@ export default function FinancingPage() {
             />
 
             <Button variant="primary" onClick={handleIssueNote} className="w-full mt-2">
-              Sign & Issue Note on-Chain &rarr;
+              Sign & Issue Note on-Chain →
             </Button>
           </div>
         </div>
@@ -310,13 +310,13 @@ export default function FinancingPage() {
                 <div className="flex flex-col sm:flex-row items-center gap-3 w-full md:w-auto">
                   {note.status === "ISSUED" && (
                     <Button variant="primary" onClick={() => handleFundNote(note)} className="w-full sm:w-auto">
-                      Fund Note (A-USDC) &rarr;
+                      Fund Note (A-USDC) →
                     </Button>
                   )}
 
                   {note.status === "FUNDED" && (
                     <Button variant="secondary" onClick={() => handleRepayNote(note)} className="w-full sm:w-auto">
-                      Repay Note &rarr;
+                      Repay Note →
                     </Button>
                   )}
 

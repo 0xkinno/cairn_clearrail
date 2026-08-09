@@ -184,7 +184,7 @@ export function WageManagement({
                   rel="noopener noreferrer"
                   className="text-mono-sm text-[var(--color-status-info)] hover:underline block mt-2 font-mono text-[11px] truncate max-w-md"
                 >
-                  Arbiscan Tx: {r.near_tx_hash} &rarr;
+                  Arbiscan Tx: {r.near_tx_hash} →
                 </a>
               )}
             </div>
@@ -192,7 +192,7 @@ export function WageManagement({
               <Badge status={STATUS_BADGE[r.status] || "info"}>{r.status}</Badge>
               {r.status === "pending" && (
                 <Button onClick={() => handleApproveAndSettle(r)}>
-                  Sign & Settle on Arbitrum &rarr;
+                  Sign & Settle on Arbitrum →
                 </Button>
               )}
             </div>

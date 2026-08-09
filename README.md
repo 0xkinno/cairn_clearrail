@@ -39,6 +39,12 @@
 
 ## 1. Executive Summary
 
+### Demo Access
+| Role | Email | Password |
+|---|---|---|
+| Employer/Manager | manager@clearrail.io | clearrail2026 |
+| Worker | worker@clearrail.io | clearrail2026 |
+
 ClearRail is a Cleanverse-native workforce settlement and RWA payroll yield financing protocol running natively on Arbitrum Sepolia. It unifies AI hazard verification, identity compliance, and real token escrow into an institutional settlement rail where every state change produces an on-chain transaction verified by Cleanverse A-Pass and Validator Pool engines. Without Cleanverse compliance verification, zero funds move on-chain.
 
 ---

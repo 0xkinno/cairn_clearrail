@@ -8,9 +8,9 @@ export function Footer() {
       <div className="max-w-6xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
           <div className="md:col-span-2">
-            <span className="text-[28px] font-bold tracking-tight text-[#FAF9F5] block mb-3 font-serif">Cairn</span>
+            <span className="text-[28px] font-bold tracking-tight text-[#FAF9F5] block mb-3 font-serif">ClearRail</span>
             <p className="text-body-sm text-[var(--color-text-inverse-secondary)] max-w-sm leading-relaxed">
-              Decentralized, AI-powered worker safety identity anchored on NEAR Protocol. Portable compliance for modern enterprise workforces.
+              Decentralized, AI-powered worker safety identity anchored on Arbitrum Sepolia. Portable compliance for modern enterprise workforces.
             </p>
           </div>
           <div>
@@ -25,7 +25,7 @@ export function Footer() {
                 rel="noopener noreferrer"
                 className="text-body-sm text-[var(--color-text-inverse-secondary)] transition-colors duration-200 hover:text-[var(--color-accent)]"
               >
-                NEAR Testnet Contract
+                Arbitrum Sepolia Testnet Contract
               </a>
             </div>
           </div>
@@ -43,8 +43,8 @@ export function Footer() {
         </div>
 
         <div className="pt-6 border-t border-[rgba(255,255,255,0.06)] flex flex-col md:flex-row items-center justify-between gap-3">
-          <p className="text-mono-sm text-[#A3A19C] text-[10px]">&copy; {new Date().getFullYear()} Cairn. All rights reserved.</p>
-          <p className="text-mono-sm text-[#A3A19C] text-[10px]">Anchored securely on NEAR Protocol</p>
+          <p className="text-mono-sm text-[#A3A19C] text-[10px]">&copy; {new Date().getFullYear()} ClearRail. All rights reserved.</p>
+          <p className="text-mono-sm text-[#A3A19C] text-[10px]">Anchored securely on Arbitrum Sepolia</p>
         </div>
       </div>
     </footer>

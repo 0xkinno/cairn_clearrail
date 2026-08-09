@@ -56,7 +56,7 @@ export function InsuranceCalculator() {
               CALCULATOR
             </span>
           </div>
-          <h2 className="text-display-md text-[var(--color-text-primary)]">What could Cairn save your site?</h2>
+          <h2 className="text-display-md text-[var(--color-text-primary)]">What could ClearRail save your site?</h2>
           <p className="text-body-lg text-[var(--color-text-secondary)] max-w-xl">
             Estimated annual savings from reduced incident costs and insurance premiums.
           </p>
@@ -125,7 +125,7 @@ export function InsuranceCalculator() {
           </div>
           <div className="max-w-xs md:border-l md:border-[rgba(250,250,247,0.15)] md:pl-8 py-1">
             <p className="text-body-sm text-[var(--color-text-inverse-secondary)] leading-relaxed">
-              Calculations assume a conservative <strong className="text-[var(--color-text-inverse)] font-semibold">32% compliance overhead reduction</strong>, based on Gemini AI hazard mitigation and real-time NEAR blockchain credential logging.
+              Calculations assume a conservative <strong className="text-[var(--color-text-inverse)] font-semibold">32% compliance overhead reduction</strong>, based on Gemini AI hazard mitigation and real-time Arbitrum Sepolia blockchain credential logging.
             </p>
           </div>
         </div>

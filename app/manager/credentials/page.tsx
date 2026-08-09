@@ -95,7 +95,7 @@ export default function ManagerCredentialsPage() {
                         rel="noopener noreferrer"
                         className="text-mono-sm text-[var(--color-accent)] font-semibold hover:underline text-[10.5px]"
                       >
-                        Verified on NEAR &rarr;
+                        Verified on Arbitrum Sepolia →
                       </a>
                     </div>
                   )}

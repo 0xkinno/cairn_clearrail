@@ -66,7 +66,7 @@ export default function ManagerWagesPage() {
       ) : records.length === 0 ? (
         <EmptyState
           title="No wage records yet"
-          description="Add a pay period for a worker — it will be recorded and can be verified on NEAR."
+          description="Add a pay period for a worker — it will be recorded and can be verified on Arbitrum Sepolia."
           action={<Button onClick={() => setModalOpen(true)}>Add wage record</Button>}
         />
       ) : (

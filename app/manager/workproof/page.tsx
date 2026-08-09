@@ -72,15 +72,15 @@ export default function WorkProofPage() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-mono-sm">
           <div className="flex items-center gap-2 font-bold text-[var(--color-text-primary)]">
             <span>WORK</span>
-            <span className="text-[var(--color-accent)]">&rarr;</span>
+            <span className="text-[var(--color-accent)]">→</span>
             <span>CREDENTIAL</span>
-            <span className="text-[var(--color-accent)]">&rarr;</span>
+            <span className="text-[var(--color-accent)]">→</span>
             <span>COMPLIANCE</span>
-            <span className="text-[var(--color-accent)]">&rarr;</span>
+            <span className="text-[var(--color-accent)]">→</span>
             <span>OBLIGATION</span>
-            <span className="text-[var(--color-accent)]">&rarr;</span>
+            <span className="text-[var(--color-accent)]">→</span>
             <span>ESCROW</span>
-            <span className="text-[var(--color-accent)]">&rarr;</span>
+            <span className="text-[var(--color-accent)]">→</span>
             <span>SETTLEMENT</span>
           </div>
           <span className="px-3 py-1 rounded-full bg-[var(--color-status-safe-bg)] text-[var(--color-status-safe)] font-semibold text-[11px]">

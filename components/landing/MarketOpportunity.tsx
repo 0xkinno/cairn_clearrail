@@ -6,7 +6,7 @@ import { fadeInUp, stagger } from "@/lib/utils/animations";
 const FACTS = [
   { value: "$1.8B → $3.8B", label: "Industrial safety-tech market growth", desc: "A rapidly growing sector as construction and factory sites digitize operations globally.", chart: true },
   { value: "14.8% CAGR", label: "Asia-Pacific compliance software", desc: "Unprecedented software adoption rate in ASEAN markets driven by regulatory safety pressures." },
-  { value: "68%", label: "Of site inspections done manually", desc: "The persistent gap in modern automation. A massive paper-based opportunity waiting for Cairn." },
+  { value: "68%", label: "Of site inspections done manually", desc: "The persistent gap in modern automation. A massive paper-based opportunity waiting for ClearRail." },
 ];
 
 function GrowthLine() {

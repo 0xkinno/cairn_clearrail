@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import { fadeInUp } from "@/lib/utils/animations";
 
-const TOOLS = ["NEAR Protocol", "Google Gemini", "Supabase", "Next.js", "Vercel"];
+const TOOLS = ["Arbitrum Sepolia", "Google Gemini", "Supabase", "Next.js", "Vercel"];
 
 export function BuiltWith() {
   return (

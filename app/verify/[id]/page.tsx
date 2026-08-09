@@ -53,7 +53,7 @@ export default async function VerifyWorkerPage({ params }: { params: Promise<{ i
   return (
     <div className="max-w-2xl mx-auto px-6 py-16 flex flex-col gap-10">
       <div className="flex flex-col items-center text-center gap-4">
-        <Badge status="info">Verified on NEAR Protocol</Badge>
+        <Badge status="info">Verified on Arbitrum Sepolia</Badge>
         <h1 className="text-display-md">{worker.full_name}</h1>
         <p className="text-body-md text-[var(--color-text-secondary)]">{worker.trade || "General worker"}</p>
         <p className="text-score">{Number(worker.safety_score ?? 50).toFixed(0)}</p>
@@ -102,7 +102,7 @@ export default async function VerifyWorkerPage({ params }: { params: Promise<{ i
                           </p>
                           {c.near_tx_hash && (
                             <p className="text-mono-sm text-[var(--color-text-tertiary)] break-all mt-1">
-                              NEAR proof: {c.near_tx_hash}
+                              Arbitrum Sepolia proof: {c.near_tx_hash}
                             </p>
                           )}
                         </div>
@@ -138,7 +138,7 @@ export default async function VerifyWorkerPage({ params }: { params: Promise<{ i
                         </p>
                         {w.near_tx_hash && (
                           <p className="text-mono-sm text-[var(--color-text-tertiary)] break-all mt-2">
-                            NEAR proof: {w.near_tx_hash}
+                            Arbitrum Sepolia proof: {w.near_tx_hash}
                           </p>
                         )}
                       </div>
@@ -152,7 +152,7 @@ export default async function VerifyWorkerPage({ params }: { params: Promise<{ i
       />
 
       <p className="text-mono-sm text-[var(--color-text-tertiary)] text-center">
-        This record is cryptographically anchored on NEAR Protocol testnet and independently verifiable.
+        This record is cryptographically anchored on Arbitrum Sepolia testnet and independently verifiable.
       </p>
     </div>
   );

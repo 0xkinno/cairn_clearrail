@@ -385,7 +385,7 @@ export default function ComplianceLabPage() {
                 </p>
               </div>
               <Button variant="primary" onClick={executeSettlement} disabled={wages.length === 0}>
-                Run Batch Audit &rarr;
+                Run Batch Audit →
               </Button>
             </div>
 
@@ -423,7 +423,7 @@ export default function ComplianceLabPage() {
             />
 
             <Button variant="primary" onClick={runRecovery} className="w-full mt-2">
-              Recover Blocked Escrow &rarr;
+              Recover Blocked Escrow →
             </Button>
 
             {recoveryLogs.length > 0 && (

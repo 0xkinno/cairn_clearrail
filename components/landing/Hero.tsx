@@ -20,7 +20,7 @@ export function Hero() {
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <Link href="/" className="text-heading-md font-bold tracking-tight text-[var(--color-text-primary)] hover:opacity-90 transition-opacity flex items-center gap-2">
             <span className="w-3.5 h-3.5 rounded-full bg-[var(--color-accent)] animate-pulse" />
-            Cairn
+            ClearRail
           </Link>
           
           {/* Refined Premium Capsule Navbar */}
@@ -63,7 +63,7 @@ export function Hero() {
           animate="visible"
           className="flex flex-col items-center w-full"
         >
-          {/* NEAR verified on-chain trust badge */}
+          {/* Arbitrum Sepolia verified on-chain trust badge */}
           <motion.div
             variants={fadeInUp}
             className="flex items-center gap-2 px-3 py-1 bg-[var(--color-accent-subtle)] border border-[rgba(212,148,10,0.2)] rounded-full mb-5"
@@ -76,14 +76,14 @@ export function Hero() {
             variants={fadeInUp} 
             className="text-display-xl text-[var(--color-text-primary)] mb-4 max-w-4xl tracking-tight leading-[1.02]"
           >
-            The safety record that follows the worker, not the employer.
+            Payments that carry their proof..
           </motion.h1>
           
           <motion.p 
             variants={fadeInUp} 
             className="text-body-lg text-[var(--color-text-secondary)] mb-8 max-w-2xl font-normal leading-relaxed"
           >
-            AI-powered safety compliance. On-chain credentials anchored on NEAR Protocol. Portable forever.
+            Cleanverse-native workforce settlement. Real compliance. Real escrow. Real audit trail. On Arbitrum Sepolia.
           </motion.p>
           
           <motion.div variants={fadeInUp} className="flex flex-wrap gap-4 justify-center mb-10">
@@ -172,14 +172,14 @@ export function Hero() {
               </div>
             </motion.div>
 
-            {/* Floating Card 5: NEAR Verified */}
+            {/* Floating Card 5: Arbitrum Sepolia Verified */}
             <motion.div 
               animate={{ y: [0, -4, 0] }}
               transition={{ duration: 4.5, repeat: Infinity, ease: "easeInOut", delay: 0.8 }}
               className="keynote-card absolute left-1/2 -translate-x-1/2 -bottom-6 flex items-center gap-3 w-44 md:w-52 border-[rgba(212,148,10,0.3)] bg-gradient-to-r from-[rgba(255,255,253,0.95)] to-[rgba(253,246,231,0.95)] shadow-xl"
             >
               <span className="w-2.5 h-2.5 rounded-full bg-[var(--color-accent)] animate-ping" />
-              <p className="text-mono-sm text-[var(--color-text-primary)] text-center font-bold tracking-wider">NEAR PROTOCOL VERIFIED</p>
+              <p className="text-mono-sm text-[var(--color-text-primary)] text-center font-bold tracking-wider">Arbitrum Sepolia PROTOCOL VERIFIED</p>
             </motion.div>
           </motion.div>
         </motion.div>

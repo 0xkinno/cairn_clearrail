@@ -124,7 +124,7 @@ export function TransactionProofCard({
           rel="noopener noreferrer"
           className="text-mono-sm font-semibold text-[var(--color-accent)] hover:underline flex items-center gap-1"
         >
-          View on Arbitrum Sepolia Arbiscan &rarr;
+          View on Arbitrum Sepolia Arbiscan →
         </a>
 
         {travelRuleAvailable && onDownloadTravelRule && (

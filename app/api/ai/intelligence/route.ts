@@ -40,7 +40,7 @@ export async function POST(req: NextRequest) {
       return acc;
     }, {});
 
-    const prompt = `You are Cairn's Predictive Safety Intelligence Engine. Analyze this safety data and generate a comprehensive intelligence brief.
+    const prompt = `You are ClearRail's Predictive Safety Intelligence Engine. Analyze this safety data and generate a comprehensive intelligence brief.
 Hazard flags (${hazards?.length || 0}): ${JSON.stringify(hazards?.slice(0, 50) || [])}
 Incidents (${incidents?.length || 0}): ${JSON.stringify(incidents?.slice(0, 20) || [])}
 Check-in risk distribution: ${JSON.stringify(riskDist)}

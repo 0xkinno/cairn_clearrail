@@ -37,7 +37,7 @@ export function WageTimeline({ records }: { records: WageRecordRow[] }) {
               </p>
               {r.near_tx_hash && (
                 <p className="text-mono-sm text-[var(--color-text-tertiary)] break-all mt-2">
-                  Verify on NEAR: {r.near_tx_hash}
+                  Verify on Arbitrum Sepolia: {r.near_tx_hash}
                 </p>
               )}
             </div>

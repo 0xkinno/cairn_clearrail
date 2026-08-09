@@ -69,7 +69,7 @@ export default async function CheckInDetailPage({ params }: { params: Promise<{ 
         <div className="bg-[var(--color-bg-secondary)] p-5 rounded-2xl border border-[var(--color-border-subtle)] flex flex-col gap-2 shadow-sm">
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-[var(--color-status-safe)] animate-pulse" />
-            <span className="text-mono-sm text-[var(--color-text-primary)] font-semibold">Attestation Anchored on NEAR</span>
+            <span className="text-mono-sm text-[var(--color-text-primary)] font-semibold">Attestation anchored on Arbitrum Sepolia</span>
           </div>
           <p className="text-mono-sm text-[var(--color-text-tertiary)] break-all select-all text-xs">Tx Hash: {checkin.near_attestation_hash}</p>
           <a
@@ -78,7 +78,7 @@ export default async function CheckInDetailPage({ params }: { params: Promise<{ 
             rel="noopener noreferrer"
             className="text-mono-sm text-[var(--color-accent)] font-semibold hover:underline mt-1 text-xs"
           >
-            View on NEAR Explorer &rarr;
+            View on Arbitrum Sepolia Explorer →
           </a>
         </div>
       )}
@@ -89,7 +89,7 @@ export default async function CheckInDetailPage({ params }: { params: Promise<{ 
           <div className="flex flex-col gap-1 text-left">
             <p className="text-body-sm text-[var(--color-text-primary)] font-medium">Signed by your wallet</p>
             <p className="text-body-sm text-[var(--color-text-secondary)] leading-relaxed">
-              This daily check-in was signed using your connected NEAR wallet: <strong className="text-[var(--color-text-primary)]">{worker.near_account}</strong>.
+              This daily check-in was signed using your connected Arbitrum Sepolia wallet: <strong className="text-[var(--color-text-primary)]">{worker.near_account}</strong>.
             </p>
           </div>
         </div>
@@ -99,7 +99,7 @@ export default async function CheckInDetailPage({ params }: { params: Promise<{ 
           <div className="flex flex-col gap-1 text-left">
             <p className="text-body-sm text-[var(--color-text-primary)] font-medium">Server Fallback Signing Used</p>
             <p className="text-body-sm text-[var(--color-text-secondary)] leading-relaxed">
-              This daily check-in was signed using the server-side fallback key. Connect your NEAR wallet in <a href="/worker/settings" className="text-[var(--color-accent)] font-semibold hover:underline">Settings</a> to sign check-ins yourself.
+              This daily check-in was signed using the server-side fallback key. Connect your Arbitrum Sepolia wallet in <a href="/worker/settings" className="text-[var(--color-accent)] font-semibold hover:underline">Settings</a> to sign check-ins yourself.
             </p>
           </div>
         </div>
